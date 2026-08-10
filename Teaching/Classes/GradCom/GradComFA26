@@ -6,15 +6,15 @@
 <br>MATH 8420  &mdash; Fall 2026</h1> 
 <ul>
 <li><b>Instructor:</b> <a href="http://www.samspiro.xyz">Sam Spiro</a>
-<li><b>Lectures:</b> TR 2:15-10:45 in Classroom South, Room 508</li>
-<li><b>Office Hours:</b> T 10:45-11:45 and by appointment, 25 Park Place 1319</li>
+<li><b>Lectures:</b> TR 2:15-3:30 in Aderhold Learning Center Room 230 </li>
+<li><b>Office Hours:</b> ???[Likely Tuesday before class] and by appointment, 25 Park Place 1319</li>
 <li><b>Text:</b>
-The course will be based off of these <a href="AdvGraphsNotes.pdf">notes</a>.
+The course will be based off of these <a href="CombinatoricsNotes.pdf">notes</a>.
 <li><b>Homework:</b> Homework problems are listed in the 
-schedule of lectures below and are to be turned in to the mailbox of Aram Mathivanan the following Thursday by noon.  Sketches of solutions can be found <a href="AdvGraphsSols.pdf">here</a>.
+schedule of lectures below and are to be turned in to the mailbox of Shengze Wang that Thursday by ??[before class].  Sketches of solutions can be found <a href="GradComSols.pdf">here</a>.
 <li><b>Feedback:</b> Anonymous feedback can be given <a href="https://www.admonymous.co/samspiro">here</a>
    
-<li><b>Syllabus:</b> The syllabus for the course can be found <a href="SyllabusAdvGraphsSP26.pdf">here</a>
+<li><b>Syllabus:</b> The syllabus for the course can be found <a href="GradComSyllabusFA26.pdf">here</a>
 </p>
 </ul>
 <p>
@@ -29,56 +29,56 @@ margin-right: auto;" border="1">
 <th><b>Week</b></th>
 <th><b>Lecture dates</b></th>
 <th><b>Sections</b></th>
-<th><b>HW assignment      </b></th>
+<th><b>HW assignment    </b></th>
 <TR><TR>
-<TD>1</TD> <TD> 8/25, 8/27</TD> <TD>???</TD>
-            <td>??? </td>
+<TD>1</TD> <TD> 8/25, 8/27</TD> <TD>???Antichains, Posets </TD>
+            <td> </td>
 <tr>
    
-<TD>2</TD><TD> 9/1, 9/3 </TD>  <TD> ??? </TD>
-            <td>??? </td>
+<TD>2</TD><TD> 9/1, 9/3 </TD>  <TD> ???LYM Inequality, Intersecting Families </TD>
+            <td> Chapter 1: 1, 5, 7ab, 8 </td>
 <tr>
-<TD>3</TD> <TD> 9/8, 9/10 </TD> <TD> ??? </TD>
-            <td>??? </td>
+<TD>3</TD> <TD> 9/8, 9/10 </TD> <TD> ???Set Pairs Inequality, Shifting </TD>
+            <td>???Chapter 1: 2b, 9, 10; Chapter 2: 3 </td>
 <tr>
-<TD>4</TD> <TD>9/15, 9/17 </TD> <TD> ???</TD>
-            <td> ??? </td>
+<TD>4</TD> <TD>9/15, 9/17 </TD> <TD> ???Shadows, Isoperimetric Inequalities</TD>
+            <td> ???Chapter 2: 4ab, 6, 8 </td>
 <tr>
-<TD>5</TD> <TD> 9/22, 9/24 </TD> <TD> ???</TD>
-           <td> ??? </td>
+<TD>5</TD> <TD> 9/22, 9/24 </TD> <TD> ???Sunflowers, Delta System Method</TD>
+           <td> ???Chapter 3: 2c, 6, 8, 10 </td>
 <tr>
-<TD>6</TD> <TD> 9/29, 10/1 </TD><TD>???</TD>
+<TD>6</TD> <TD> 9/29, 10/1 </TD><TD>???Linear Algebra Methods</TD>
    <td> ???</td> 
 <tr>
-<TD>7 </TD> <TD> 10/6, 10/8 </TD><TD>???</TD>
+<TD>7 </TD> <TD> 10/6, 10/8 </TD><TD>???Slice Rank, Transversals</TD>
           <td> ???</td>
 <tr>
-<TD>8</TD> <TD> 10/13, 10/15 </TD><TD>???</TD>
+<TD>8</TD> <TD> 10/13, 10/15 </TD><TD>???VC Dimension</TD>
             <td> ???</td>
 <tr>
-<TD>9</TD> <TD> 10/20, 10/22 </TD><TD>???</TD>
+<TD>9</TD> <TD> 10/20, 10/22 </TD><TD>???Convex Geometry</TD>
           <td>???</td>
 <tr>
-<TD>10</TD> <TD> 10/27, 10/29 </TD><TD> ???</TD>
+<TD>10</TD> <TD> 10/27, 10/29 </TD><TD> ???The (p,q)-Theorem</TD>
           <td> ??? </td>
 <tr>
-<TD>11</TD> <TD> 11/3, 11/5 </TD><TD>???</TD>
+<TD>11</TD> <TD> 11/3, 11/5 </TD><TD>???Geometric Constructions</TD>
           <td>???</td>
 <tr>
-<TD>12</TD> <TD>11/10, 11/12 </TD><TD> ???</TD>
+<TD>12</TD> <TD>11/10, 11/12 </TD><TD> ???The Borsuk Ulam Theorem</TD>
           <td>???</td>
 <tr>
-<TD>13</TD> <TD> 11/17, 11/19 </TD><TD>???</TD>
+<TD>13</TD> <TD> 11/17, 11/19 </TD><TD>???The KKM Theorem</TD>
    <td>???</td>
 <tr>
 <TD>14</TD> <TD> 11/24, 11/26 </TD><TD> Thanksgiving Break (No Classes) </TD>
-         <td> N/A </td>
+         <td> </td>
 <tr>
-<td>15</td><td> 12/1, 12/3 </td><td>???</td>
+<td>15</td><td> 12/1, 12/3 </td><td>???Simplicial Complexes</td>
           <td> ???</td>
 <TR> <tr> <tr>
-<TD>16</TD> <TD> 12/10 </TD> <TD> ??? </TD>
-            <TD>??? </TD><TR>
+<TD>16</TD> <TD> 12/10 </TD> <TD> Final Exam 1:30-4:00 </TD>
+            <TD> </TD><TR>
 </TABLE>
 </center>
 <p>&nbsp;<p>
